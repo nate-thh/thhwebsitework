@@ -1,0 +1,11 @@
+<svg width="1500" height="900" viewBox="0 0 1500 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="900" fill="transparent"/>
+  <g transform="translate(90,220)">
+    <rect x="0" y="0" width="400" height="400" rx="2" stroke="#0F2742" stroke-width="8"/>
+    <path d="M52 72H138V184H262V72H348V348H262V248C262 214.863 235.137 188 202 188C168.863 188 142 214.863 142 248V348H52V72Z" fill="#0F2742"/>
+    <path d="M162 72H242V90H216V146H188V90H162V72Z" fill="#0F2742"/>
+  </g>
+  <text x="560" y="370" fill="#0F2742" font-family="Inter, Arial, sans-serif" font-size="160" font-weight="700" letter-spacing="-2">the</text>
+  <text x="560" y="530" fill="#0F2742" font-family="Inter, Arial, sans-serif" font-size="160" font-weight="700" letter-spacing="-2">harkness</text>
+  <text x="560" y="690" fill="#0F2742" font-family="Inter, Arial, sans-serif" font-size="160" font-weight="700" letter-spacing="-2">house</text>
+</svg>
