@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-thh-cream text-thh-charcoal antialiased;
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-6xl px-6 md:px-10;
+}
+
+.section-padding {
+  @apply py-16 md:py-24;
+}
+
+.focus-ring {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-thh-gold focus-visible:ring-offset-2 focus-visible:ring-offset-thh-cream;
+}
